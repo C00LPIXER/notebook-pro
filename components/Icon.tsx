@@ -26,7 +26,9 @@ import {
   Minus,
   Check,
   Eye,
-  Palette
+  Palette,
+  Loader2,
+  Upload
 } from 'lucide-react';
 
 export const Icons = {
@@ -55,5 +57,7 @@ export const Icons = {
   Minus,
   Check,
   Eye,
-  Palette
+  Palette,
+  Loader: Loader2,
+  Upload
 };
