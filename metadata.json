@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Student Notebook Pro",
+  "description": "A digital notebook designed for students. Organize subjects into separate books, take page-wise notes, draw diagrams, and insert images. Built with a scalable block-based architecture ready for future AI integration.",
+  "requestFramePermissions": []
+}
